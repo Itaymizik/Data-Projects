@@ -1,2 +1,2 @@
 # Data-project
-Data science project
+Small to medium sized projects
