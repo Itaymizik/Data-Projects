@@ -1,2 +1,2 @@
 # Data-project
-Small to medium sized projects
+Small to medium projects that focus on data cleaning, machine learning algorithms, visualization and inference
