@@ -1,2 +1,2 @@
-# Twitter-project
+# Data-project
 Data science project
